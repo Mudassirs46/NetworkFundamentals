@@ -1,4 +1,4 @@
-# Medium
+# Ways \(Medium\) to connect two or more computers
 
 ## Ways \(Medium\) to connect two or more computers:
 

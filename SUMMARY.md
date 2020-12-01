@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Network](README.md)
-* [Medium](medium.md)
+* [A Network](README.md)
+* [Ways \(Medium\) to connect two or more computers](medium.md)
 
