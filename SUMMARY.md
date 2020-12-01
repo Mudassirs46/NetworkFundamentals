@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Network](README.md)
+* [Medium](medium.md)
 
