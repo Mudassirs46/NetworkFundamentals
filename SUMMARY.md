@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Network](README.md)
-* [Medium](medium.md)
+* [Medium \(Ways to connect\)](medium.md)
 * [Types of Network](types-of-network.md)
 * [LAN](lan.md)
 * [MAN](man.md)

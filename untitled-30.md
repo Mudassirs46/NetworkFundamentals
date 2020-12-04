@@ -1,6 +1,6 @@
 # Ethernet Standards \(Fiber Optic\)
 
-The Entire family of IEEE LAN Standards \(Physical\) that together define the Physical Layer & the Data-Link Layers of the Wired LAN technology is referred to as an [Ethernet](untitled-20.md).
+The Entire family of IEEE LAN Standards 202011220920 Ethernet Standards \(Physical\) that together define the Physical Layer & the Data-Link Layers of the Wired LAN technology is referred to as an [Ethernet](untitled-20.md).
 
 * Some Switch comes with built-in SPF ports which support the Optical Ethernet Standards, whereas some Ethernet switches come with Modular Ports where we can swap the normally used Ethernet ports to the Optical SPF/SPF+ ports which support SPF Modules with 10Gbps Standards.
 

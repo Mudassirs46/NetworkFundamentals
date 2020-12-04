@@ -1,6 +1,6 @@
 # Cabling Pinouts \(Fiber Optic\)
 
-* For [Transmitting Data over Fiber Optic Cable](untitled-26.md), we use Hot-Pluggable Transceivers.
+* For [Transmitting Data over Fiber Optic Cable](untitled-26.md), we use Hot-Pluggable Transceivers. \[\[202011221126 Transmitting Data \(Fiber Optic\)\]\]
 * An Optical transmitter shines a LED/Laser light in the core which is made up of Fiberglass & is covered with cladding.
 * Both Cladding+Core it roughly the size of the diameter of a Human Hair.
 * Cladding is further covered with a buffer then a strengthener & finally an Outer Jacket to prevent delicate Fiber Glass from breaking.

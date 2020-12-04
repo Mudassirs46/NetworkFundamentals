@@ -1,6 +1,4 @@
-# Medium
-
-## Ways \(Medium\) to connect two or more computers:
+# Medium \(Ways to connect\)
 
 As mentioned previously A [Network ](./#network)consists of two or more computers that are linked together.
 

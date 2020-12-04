@@ -1,10 +1,10 @@
 # Ethernet Standards \(UTP\)
 
-The Entire family of IEEE LAN Standards \(Physical\) that together define the Physical Layer & the Data-Link Layers of the Wired LAN technology is referred to as [Ethernet](untitled-20.md).
+The Entire family of IEEE LAN Standards 202011220920 Ethernet Standards \(Physical\) that together define the Physical Layer & the Data-Link Layers of the Wired LAN technology is referred to as [Ethernet](untitled-20.md).
 
-### T- Twisted Pair Cable [Transmitting Data over Ethernet UTP](untitled-25.md)
+### T- Twisted Pair Cable \[\[202011221041 Transmitting Data \(Ethernet UTP\)\]\]
 
-### X- Fiber Cable [Transmitting Data over Fiber Optic Cable \(using Hot-Pluggable Transceivers\)](untitled-26.md)
+### X- Fiber Cable \[\[202011221126 Transmitting Data \(Fiber Optic\)\]\]
 
 | Speed | Common Name | Informal IEEE Standard Name | Formal IEEE Standard Name | Cable Type | Max Distance |
 | :--- | :--- | :--- | :--- | :--- | :--- |
