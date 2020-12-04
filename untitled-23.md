@@ -2,7 +2,7 @@
 
 The Entire family of IEEE LAN Standards 202011220920 Ethernet Standards \(Physical\) that together define the Physical Layer & the Data-Link Layers of the Wired LAN technology is referred to as an [Ethernet](untitled-20.md).
 
-* **Comparisons Between UTP & Fiber Optic: \[\[202011231307 Ethernet Standards \(UTP\)\]\] \[\[202011231308 Ethernet Standards \(Fiber Optic\)\]\]**
+* **Comparisons Between UTP & Fiber Optic:** [**Ethernet Standards \(UTP\)**](untitled-29.md)**,** [**Ethernet Standards \(Fiber Optic\)**](untitled-30.md)\*\*\*\*
 
   | Criteria | UTP | Multi-mode | Single-Mode |
   | :--- | :--- | :--- | :--- |

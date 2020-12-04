@@ -8,7 +8,7 @@
 * **There are two types of WAN:**
   * \*\*\*\*[**Leased Line WAN**](untitled-36.md)\*\*\*\*
     * Although less commonly used still it has been an option for networks for half a century.
-  * **Ethernet WAN \(EoMPLS\) \[\[202011241500 Ethernet WAN \(EoMPLS\)\]\]**
+  * \*\*\*\*[**Ethernet WAN \(EoMPLS\)**](untitled-39.md)\*\*\*\*
     * Uses the same Data-Link Protocols as Ethernet LANs + Additional features to make the link work for even longer distances.
 
 ## References:
