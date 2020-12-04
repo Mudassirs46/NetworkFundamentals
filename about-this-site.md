@@ -1,16 +1,10 @@
-# About This Site
+# Network
 
-![](.gitbook/assets/alina-grubnyak-ziqkhi7417a-unsplash.jpg)
+A network consists of two or more computers that are linked together in order to share resources, exchange files, or allow electronic communications. The computers may be linked through Cables, Telephone lines, Radio waves, or infrared Light Beams which are also called [Mediums ](medium.md#ways-medium-to-connect-two-or-more-computers)\(Ways to connect\).
 
-> ![](.gitbook/assets/the-archive%20%281%29.png) 
->
-> This website explains the Network Fundamentals & difficult Networking terms in a Zettelkasten Method \(Slip-box method\).
+* There are different ways to connect \([Mediums\) ](medium.md)different [types of Network](types-of-network.md) which are used in an Enterprise Network or a SOHO LAN Network via different [types of Networking devices](untitled-33.md).
 
-> > ![](.gitbook/assets/markdown.ico) 
-> >
-> > Each Zettel \(page\) is linked to the others using a simple Markdown format.
+#### Reference:
 
-> > ![](.gitbook/assets/backlink.png) 
-> >
-> > Using Backlinks, these Zettel's network with each other creating a Second Brain.
+[https://www.dictionary.com/browse/internet](https://www.dictionary.com/browse/internet)
 

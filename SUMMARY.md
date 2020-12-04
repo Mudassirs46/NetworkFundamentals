@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Network](README.md)
+* [About This Site](README.md)
+* [Network](about-this-site.md)
 * [Medium \(Ways to connect\)](medium.md)
 * [Types of Network](types-of-network.md)
 * [LAN](lan.md)
@@ -55,5 +56,5 @@
 * [PING \(Packet Internet Groper\)](untitled-46.md)
 * [Cisco OS \(IOS\) & CLI](untitled-47.md)
 * [Console Cabling](untitled-48.md)
-* [About This Site](about-this-site.md)
+* [Network](network.md)
 
