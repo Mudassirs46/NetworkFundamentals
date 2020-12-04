@@ -1,14 +1,8 @@
 # About This Site
 
-> ![](.gitbook/assets/the-archive.ico) 
->
-> ### This website explains the Network Fundamentals & difficult Networking terms in a Zettelkasten Method \(Slip-box method\).
+![This website explains the Network Fundamentals &amp; difficult Networking terms in a Zettelkasten Method \(Slip-box method\).](.gitbook/assets/the-archive.ico)
 
-> > ![](.gitbook/assets/markdown%20%281%29.ico) 
-> >
-> > ### Each Zettel \(page\) is linked to the others using a simple Markdown format.
+![Each Zettel \(page\) is linked to the others using a simple Markdown format.](.gitbook/assets/markdown%20%281%29.ico)
 
-> > ![](.gitbook/assets/backlink.ico) 
-> >
-> > ### Using Backlinks, these Zettel's network with each other creating a Second Brain.
+![Using Backlinks, these Zettel&apos;s network with each other creating a Second Brain.](.gitbook/assets/backlink%20%281%29.ico)
 
