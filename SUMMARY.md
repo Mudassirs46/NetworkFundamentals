@@ -1,6 +1,6 @@
 # Table of contents
 
-* [A network](README.md)
+* [A Network](README.md)
 * [Medium](medium.md)
 * [Types of Network](types-of-network.md)
 * [LAN](lan.md)
@@ -8,4 +8,15 @@
 * [WAN](untitled.md)
 * [Internet](untitled-1.md)
 * [Types of Internet Connections](untitled-2.md)
+* [Cable Connection](untitled-3.md)
+* [DSL Connection](untitled-4.md)
+* [Internet Standard & Protocols](untitled-5.md)
+* [Internet Network Model](untitled-6.md)
+* [SNA Networking Model](untitled-7.md)
+* [OSI Networking Model](untitled-8.md)
+* [TCP-IP Networking Model](untitled-9.md)
+* [TCP-IP Layers](untitled-10.md)
+* [Application Layer](untitled-11.md)
+* [HTTP \(HyperText Transfer Protocol\)](untitled-12.md)
+* [Transport Layer](untitled-13.md)
 

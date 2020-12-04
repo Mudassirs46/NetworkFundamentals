@@ -4,9 +4,9 @@
 
 #### 1. Dial-Up Connection \(Obsolete\)
 
-#### 2. DSL Connection \(Widely Used\) \(Cheaper but Slower\) \(Advanced version of Dial-Up Connection\) \[\[202011061215 DSL Connection\]\]
+#### 2. [DSL Connection](untitled-4.md) \(Widely Used\) \(Cheaper but Slower\) \(Advanced version of Dial-Up Connection\)
 
-#### 3. Cable Connection \(Widely Used\) \(Faster but Expensive\) \[\[202011061201 Cable Connection\]\]
+#### 3. [Cable Connection](untitled-3.md) \(Widely Used\) \(Faster but Expensive\)
 
 #### 4. Fiber Connection \(Widely Used\)
 
