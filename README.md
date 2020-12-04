@@ -1,18 +1,14 @@
 # About This Site
 
-
-
-![](.gitbook/assets/alina-grubnyak-ziqkhi7417a-unsplash.jpg)
-
-> ![](.gitbook/assets/the-archive%20%281%29.png) 
+> ![](.gitbook/assets/the-archive.ico) 
 >
-> This website explains the Network Fundamentals & difficult Networking terms in a Zettelkasten Method \(Slip-box method\).
+> ### This website explains the Network Fundamentals & difficult Networking terms in a Zettelkasten Method \(Slip-box method\).
 
-> > ![](.gitbook/assets/markdown.ico) 
+> > ![](.gitbook/assets/markdown%20%281%29.ico) 
 > >
-> > Each Zettel \(page\) is linked to the others using a simple Markdown format.
+> > ### Each Zettel \(page\) is linked to the others using a simple Markdown format.
 
-> > ![](.gitbook/assets/backlink.png) 
+> > ![](.gitbook/assets/backlink.ico) 
 > >
-> > Using Backlinks, these Zettel's network with each other creating a Second Brain.
+> > ### Using Backlinks, these Zettel's network with each other creating a Second Brain.
 
