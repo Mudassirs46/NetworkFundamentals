@@ -2,11 +2,11 @@
 
 The [TCP/IP Networking Model](untitled-9.md) \(like all the other models\) breaks the functions into small TCP-IP Networking Layers with each layer describing a category of functions which includes Standards & Protocols. 
 
-### **Physical Layer: \[\[202011201529 Physical layers\]\]**
+### \*\*\*\*[**Physical Layer**](untitled-19.md)**:**
 
 * Focuses on Bits transmission over each individual Link using Protocols like Ethernet, 802.11 \(Wi-Fi\). 
 
-### Data Link-Layer: \[\[202011201526 Data-Link Layer\]\]
+### [Data Link-Layer](untitled-18.md):
 
 * Focuses on sending Data over one type of Physical Link \(E.g. Ethernet, WLAN, etc.\) using Protocols like Ethernet 802.3, 802.11 \(Wi-Fi\) 
 
