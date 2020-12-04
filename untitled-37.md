@@ -2,7 +2,7 @@
 
 * The most commonly used WAN [Data-Link Layer](untitled-18.md) protocol is Ethernet & WAN Data-Link Layer protocols are High-Level Data Link Control \(**HDLC**\) and Point-to-Point Protocol \(**PPP**\). 
 * The two most commonly used WAN Data-Link Layer protocols are High-Level Data Link Control \(**HDLC**\) and Point-to-Point Protocol \(**PPP**\).
-* On WAN Links Ethernet Frames are De-encapsulated & Re-encapsulated \[\[202011241449 HDLC De-Encapsulating and Re-encapsulating\]\] with HDLC Header&Trailer or they use EoMPLS to avoid Serial Technology using HDLC WAN Protocol.
+* On WAN Links Ethernet Frames are De-encapsulated & Re-encapsulated [HDLC Encapsulating and Re-encapsulating](untitled-38.md) with HDLC Header&Trailer or they use EoMPLS to avoid Serial Technology using HDLC WAN Protocol.
 
 ## HDLC \(Cisco Proprietary\)
 
