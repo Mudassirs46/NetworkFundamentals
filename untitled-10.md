@@ -10,7 +10,7 @@ The [TCP/IP Networking Model](untitled-9.md) \(like all the other models\) break
 
 * Focuses on sending Data over one type of Physical Link \(E.g. Ethernet, WLAN, etc.\) using Protocols like Ethernet 802.3, 802.11 \(Wi-Fi\) 
 
-### Network Layer: \[\[202011201238 Network Layer\]\]
+### [Network Layer](untitled-14.md):
 
 * Focuses on delivering the Data from the original sending Computer to the final destination Computer using Protocols like IP & ICMP
 
