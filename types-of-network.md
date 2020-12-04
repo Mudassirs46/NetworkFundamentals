@@ -1,6 +1,6 @@
 # Types of Network
 
-### There are 2 Main Types of [Network](./):
+### There are 2 Main Types of the [network](./):
 
 #### 1. Public Network
 
@@ -9,8 +9,8 @@
 **2. Private Network**
 
 * [LAN ](lan.md)
-* MAN \[\[202011061102 MAN\]\]
-* WAN \[\[202011061106 WAN\]\]
+* [MAN ](man.md)
+* [WAN ](untitled.md)
 
 ## References:
 
