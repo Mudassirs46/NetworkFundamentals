@@ -1,6 +1,6 @@
 # About This Site
 
-![This website explains the Network Fundamentals &amp; difficult Networking terms in a Zettelkasten Method \(Slip-box method\).](.gitbook/assets/the-archive.ico)
+![This website explains the Network Fundamentals &amp; difficult Networking terms in a Zettelkasten Method.](.gitbook/assets/the-archive.ico)
 
 ![Each Zettel \(page\) is linked to the others using a simple Markdown format.](.gitbook/assets/markdown%20%281%29.ico)
 
