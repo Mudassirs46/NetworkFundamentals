@@ -1,8 +1,8 @@
 # TCP \(Transmission Control Protocol\)
 
-TCP/IP [Transport Layer](untitled-13.md)'s TCP provides guarantee Delivery of Data.
+TCP/IP Transport Layer's \[\[202011201204 Transport Layer\]\] TCP provides guarantee Delivery of Data.
 
-* HTTP was built to get a  Web page from a Web Server for a Web Browser. If however the page is lost in between then the lower Layer's \(Transport Layer's\) TCP provides a Guarantee Delivery error recovery feature with the help of Re-Transmission & Acknowledgment.
+* HTTP was built to get a  Web page from a Web Server for a Web Browser. If however the page is lost in between then the lower Layer's \(Transport Layer's\) TCP provides an Guarantee Delivery error recovery feature with the help of Re-Transmission & Acknowledgment.
 * Each TCP Headers \(encapsulated by Transport Layer\) include Sequence Numbers & if a PC's Web Browser receives a response from a Web Server with Seq Numbers 1,3 & 4 it will automatically send a re-transmission request of a 2nd missing Segment thereby providing guaranteed delivery of Data. 
 
 ## Reference:

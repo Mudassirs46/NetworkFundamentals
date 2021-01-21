@@ -1,16 +1,16 @@
-# Types of Network
+# Types of Network:
 
-### There are 2 Main Types of the [network](./):
+There are 2 Main Types of [Network](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRYdD4ekGoIJOUwiXWX/about-this-site):
 
 #### 1. Public Network
 
-* [Internet](untitled-1.md)
+* Internet \[\[202011061116 Internet\]\]
 
-**2. Private Network**
+  **2. Private Network**
 
-* [LAN ](lan.md)
-* [MAN ](man.md)
-* [WAN ](untitled.md)
+* LAN \[\[202011061055 LAN\]\]
+* MAN \[\[202011061102 MAN\]\]
+* WAN \[\[202011061106 WAN\]\]
 
 ## References:
 
