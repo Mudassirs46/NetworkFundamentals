@@ -4,13 +4,13 @@ There are 2 Main Types of [Network](https://app.gitbook.com/@mudassirs46/s/netwo
 
 #### 1. Public Network
 
-* Internet \[\[202011061116 Internet\]\]
+* [Internet ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/internet)
 
   **2. Private Network**
 
-* LAN \[\[202011061055 LAN\]\]
-* MAN \[\[202011061102 MAN\]\]
-* WAN \[\[202011061106 WAN\]\]
+* [LAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/lan)
+* [MAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/man)
+* [WAN ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/wan)
 
 ## References:
 

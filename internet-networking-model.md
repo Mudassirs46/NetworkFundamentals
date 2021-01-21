@@ -1,11 +1,11 @@
 # Internet Networking Model
 
-Different categories of Networking  Standards & Protocols \[\[202011061355 Internet Standards & Protocols\]\] defined within a Structure is called a Networking Model/Blueprint/Architecture.
+Different categories of [Networking  Standards & Protocols ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/internet-standard-and-protocols)defined within a Structure is called a Networking Model/Blueprint/Architecture.
 
 * **Most Popular Networking Models are:**
-  * **SNA Networking Model \[\[202011121152 SNA Networking Model\]\]**
-  * **OSI Networking Model \[\[202011121718 OSI Networking Model\]\]**
-  * **TCP/IP Networking Model \[\[202011170203 TCP-IP Networking Model\]\]**
+  * \*\*\*\*[**SNA Networking Model**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/sna-networking-model) ****
+  * \*\*\*\*[**OSI Networking Model** ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/osi-networking-model)\*\*\*\*
+  * \*\*\*\*[**TCP/IP Networking Model**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/tcp-ip-networking-model) ****
 
 ## Reference:
 

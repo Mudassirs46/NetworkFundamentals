@@ -1,6 +1,6 @@
-# Medium
+# Medium \(Ways to connect\)
 
-As mentioned previously A [Network ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRYdD4ekGoIJOUwiXWX/about-this-site)consists of two or more computers that are linked together.
+As mentioned previously A [Network ](./#network)consists of two or more computers that are linked together.
 
 ### And there are two ways to connect two or more computers:
 

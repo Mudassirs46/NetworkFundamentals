@@ -1,6 +1,6 @@
 # SNA Networking Model
 
-One of the Type of Network Model \[\[202011071632 Internet Network Model\]\] is SNA Network Model
+One of the types of [Network Model](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/internet-networking-model) is SNA Network Model
 
 * IBN Published it's Proprietary SNA Networking Model in 1974
 

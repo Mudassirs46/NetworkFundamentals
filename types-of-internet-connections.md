@@ -1,12 +1,12 @@
 # Types of Internet Connections
 
-Types of Internet \[\[202011061116 Internet\]\] connections at home:
+[Types of Internet](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/internet) connections at home:
 
 #### 1. Dial-Up Connection \(Obsolete\)
 
-#### 2. DSL Connection \(Widely Used\) \(Cheaper but Slower\) \(Advanced version of Dial-Up Connection\) \[\[202011061215 DSL Connection\]\]
+#### 2. [DSL Connection](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/dsl-connection) \(Widely Used\) \(Cheaper but Slower\) \(Advanced version of Dial-Up Connection\)
 
-#### 3. Cable Connection \(Widely Used\) \(Faster but Expensive\) \[\[202011061201 Cable Connection\]\]
+#### 3. [Cable Connection ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ4cjfS8UXyANv_uLC/cable-connection)\(Widely Used\) \(Faster but Expensive\)
 
 #### 4. Fiber Connection \(Widely Used\)
 
