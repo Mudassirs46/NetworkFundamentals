@@ -3,7 +3,7 @@
 ### What is VLAN?
 
 * VLAN is nothing but a single Broadcast Domain or a Single Subnet.
-* To understand VLAN we must first understand LAN. LAN \[\[202011061055 LAN\]\] is nothing but a single Broadcast Domain in which if any of the device sends any frame, all the other devices gets the copy of that frame. \[\[202012050660 Ethernet LAN Switching\]\]
+* To understand VLAN we must first understand LAN. [LAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/lan) is nothing but a single Broadcast Domain in which if any of the device [sends any frame](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/ethernet-lan-switching), all the other devices gets the copy of that frame.
 
   **Why VLAN?**
 
@@ -19,11 +19,11 @@
     * Managing a LAN Network with 50,000 computers is a not only Strenuous \(demanding or requiring vigorous exertion\) but troublesome. Hence, managing small VLANS are more smooth and uncomplicated than one large LAN.
   * **Security:**
     * Because the Broadcast sent in one VLAN will not be forwarded to the other VLANs hence it also improves the security as frames are seen by lesser hosts.
-* Switch does VLAN tagging in which they add 802.1Q Header \[\[202012071142 Trunk Port\]\] to the frame  include VLAN ID so that the receiving Switch can then know what VLAN this frame belongs. 
+* Switch does VLAN tagging in which they add [802.1Q Header ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/trunk-port)to the frame  include VLAN ID so that the receiving Switch can then know what VLAN this frame belongs. 
 * If you want to forward a packet from one VLAN to another VLAN on a different Switch \(SW1's VLAN 10 to SW2's VLAN 20\)  then you need to Route those frames between the Switches.
-* VLAN can be configured in 2 Ways: Full Method & Short Method \[\[202012071141 Configuring VLAN\]\]
-* VTP \[\[202012071141a VTP \(Vlan Trunking Protocol\)\]\] is a Cisco proprietary tool on Cisco switches that advertises each VLAN configured in one switch \(with the vlan number command\) so that all the other switches in the campus learn about that VLAN. 
-* In an IP Phone, PC is in Data VLAN & IP Phone is in Voice VLAN \[\[202012071143b Voice VLAN\]\] & the Switch port with which it is connected to acts sort of like a Trunk \[\[202012071143 Trunking Protocol \(802.1Q\)\]\] port carrying traffic from 2 different VLANs.
+* VLAN can be [configured ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/configuring-vlan)in 2 Ways: Full Method & Short Method
+* [VTP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/vtp-vlan-trunking-protocol) is a Cisco proprietary tool on Cisco switches that advertises each VLAN configured in one switch \(with the vlan number command\) so that all the other switches in the campus learn about that VLAN. 
+* In an IP Phone, PC is in Data VLAN & IP Phone is in [Voice VLAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/voice-vlan) & the Switch port with which it is connected to acts sort of like a [Trunk](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/trunking-protocol-802.1q) port carrying traffic from 2 different VLANs.
 
 ## Reference:
 

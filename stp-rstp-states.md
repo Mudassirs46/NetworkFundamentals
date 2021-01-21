@@ -1,6 +1,6 @@
 # STP/RSTP States:
 
-STP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\] moves an interface from blocking to listening, then to learning, and then to forwarding state.
+[STP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol) moves an interface from blocking to listening, then to learning, and then to forwarding state.
 
 * **Disabled Port State:**
 * Disabled ports are Administratively disabled \(shut\) by an Admin. 

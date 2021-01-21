@@ -1,6 +1,6 @@
 # RSTP Port States
 
-RSTP \[\[202012071226ab RSTP \(Rapid Spanning Tree\)\]\] moves an interface from blocking to learning, and then to forwarding state.
+[RSTP ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/rstp-rapid-spanning-tree)moves an interface from blocking to learning, and then to forwarding state.
 
 ### Discarding State \(Disabled/Blocking\):
 

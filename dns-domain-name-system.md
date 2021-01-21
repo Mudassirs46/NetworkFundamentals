@@ -1,6 +1,6 @@
 # DNS \(Domain Name System\)
 
-Some other Network Layer \[\[202011201238 Network Layer\]\]\]\] features which are related to IP Routing are DNS , ARP & PING.
+Some other [Network Layer](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/network-layer) features which are related to IP Routing are DNS , ARP & PING.
 
 * Domain Name System is a method which TCP/IP uses which lets the computers find the IP Address of a specified listed host name.
 * It was developed for the ease of both the computers \(who understands only numbers while communicating\) & Humans who are comfortable in remembering Names as compared to Numbers. 

@@ -9,7 +9,7 @@ There are 2 ways to configure a Trunk Port. 1. Statically using \(\#switchport m
   **Trunk configuration:**
 
 * **Select the type of Trunking \(802.1Q/ISL/Negotiate \(using DTP\)\):**
-  * Command is \(\# switchport trunk encapsulation \(dot1q \[\[202012071143 Trunking Protocol \(802.1Q\)\]\] /isl/negotiate\)\)
+  * Command is \(\# switchport trunk encapsulation \([dot1q ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/trunking-protocol-802.1q)/isl/negotiate\)
 * **Select the Administrative Mode:**
   * **Always use Trunk \(Statically\)**
     * Command is \(\# switchport mode trunk\)

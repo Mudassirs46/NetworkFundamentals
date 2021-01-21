@@ -16,7 +16,7 @@ As mentioned earlier, Switch creates multiple copies of the Frame in 3 Scenarios
   7. Because the same frame is being broadcasted by 2 different Switches & different ports the original receiver will receive same but multiple frames from different senders which may result in an application failure, if not more pervasive networking problems.
 
      These above issues may also leads to High Memory,CPU & Bandwidth utilization.
-* Solution is STP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\]
+* Solution is [STP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol) \(Spanning Tree Protocol\)\]\]
 
 ## Reference:
 

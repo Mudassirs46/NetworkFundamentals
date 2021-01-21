@@ -2,7 +2,7 @@
 
 ## Routing
 
-* Some other Network Layer \[\[202011201238 Network Layer\]\]\]\] features which are related to IP Routing are DNS , ARP & PING.
+* Some other [Network Layer](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/network-layer) features which are related to IP Routing are DNS , ARP & PING.
 * Ping is a tool or application of IP Upper Layer Protocol Stack \(Layer 1,2&3\) used to get Network Layer/IP Layer/Layer 3 Status. 
 * Ping sends ICMP \(Internet Control Message Protocol\) Echo packets using ICMP Echo Request to get Network Layer Status & the computer replies with the ICMP Echo Reply.
 * Ping is also used to check connectivity, calculate latency & verify drops.

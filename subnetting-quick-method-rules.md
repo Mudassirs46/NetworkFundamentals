@@ -6,7 +6,7 @@
 
 Practical Example:
 
-* \[\[202012010810a Subnetting Quick Method Example 1\]\]
+* [Subnetting Quick Method Example 1](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-quick-method-example-1)
 
 ## Reference:
 

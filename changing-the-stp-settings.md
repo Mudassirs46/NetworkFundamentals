@@ -1,6 +1,6 @@
 # Changing the STP Settings:
 
-#### There are 2 tools available to change the STP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\] Settings:
+#### There are 2 tools available to change the [STP ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol)Settings:
 
 1. Configure BID
 2. Configure STP Port costs

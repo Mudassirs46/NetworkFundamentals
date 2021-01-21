@@ -1,6 +1,6 @@
 # CLI Modes
 
-* After accessing the CLI \[\[202012031530 Cisco CLI\]\] using either of the three Access Methods \(Console, Telnet & SSH\), user will be initially placed in the User EXEC Mode/User Mode where user has only Read-Only Access. Then there are additional 2 Modes, Enable Mode/Privileged Mode/Privileged EXEC mode, Global Configuration Mode where a user gets the access to configuration.
+* After accessing the [CLI](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-cli) using either of the three Access Methods \(Console, Telnet & SSH\), user will be initially placed in the User EXEC Mode/User Mode where user has only Read-Only Access. Then there are additional 2 Modes, Enable Mode/Privileged Mode/Privileged EXEC mode, Global Configuration Mode where a user gets the access to configuration.
 
 ### User Mode/ User EXEC Mode \(&gt;\):
 
@@ -24,11 +24,11 @@ The commands that can be used in either **User Mode/ User EXEC Mode** or **Enabl
 * Using password only
 * Using Username & Password
 
-  \[\[202012050654 Securing CLI Modes\]\]
+  \([Securing CLI Modes](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-mode-and-privileged-mode)\)
 
 * Using External Authentication Servers
 
-  \[\[202012050658 AAA Server\]\]
+  \([AAA Server](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/aaa-authentication-authorization-and-accounting-server)\)
 
 ## Reference:
 

@@ -1,6 +1,6 @@
 # STP Messages \(BPDU\)
 
-STP \[\[202012071223 Why STP\]\] messages are called BPDU \(Bridge Protocol Data Unit\). BPDU contains BID \(Bridge Priority + MAC Address\)
+[STP ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol)messages are called BPDU \(Bridge Protocol Data Unit\). BPDU contains BID \(Bridge Priority + MAC Address\)
 
 * BID is 8 Byte in size. MAC Address is 6 byte, hence the remaining 2 bytes are Priority.
 

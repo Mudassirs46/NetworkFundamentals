@@ -1,6 +1,6 @@
 # Console Cabling
 
-* The only Physical option to access the Networking device via Physical Console port to access the Cisco OS's CLI \[\[202012031530 Cisco CLI\]\].
+* The only Physical option to access the Networking device via Physical Console port to access the [Cisco OS's CLI](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-cli).
 * Console Access requires Physical connection between PC & Physical Console port of the Networking device as well as the software on the PC to transmit Data. 
 * **Console Cabling to the Switch is divided into 3 different categories:**
   1. **New PC Connector \(USB Type A port\) & New Switch Connector \(USB Type Mini-B port\) \(USB Cable\)**

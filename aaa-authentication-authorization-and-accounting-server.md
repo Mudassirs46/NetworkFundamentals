@@ -1,6 +1,6 @@
 # AAA \(Authentication, Authorization and Accounting\) Server
 
-In an Enterprise Network where there are hundreds of thousands of Switches so it is not possible to configure/change the passwords regularly & Secure the CLI \[\[202012050654 Securing CLI Modes\]\] on each and every device manually/locally.
+In an Enterprise Network where there are hundreds of thousands of Switches so it is not possible to configure/change the passwords regularly & [Secure the CLI ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-mode-and-privileged-mode)on each and every device manually/locally.
 
 * AAA servers centralize the Authentication of the user of a Network \(hold the usernames/passwords of all the devices of that Network\). 
 * It authenticates the password before a user can access the Network.

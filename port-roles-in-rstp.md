@@ -1,6 +1,6 @@
 # Port Roles in RSTP
 
-### Port Roles in RSTP \[\[202012071226ab RSTP \(Rapid Spanning Tree\)\]\]
+### Port Roles in [RSTP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/rstp-rapid-spanning-tree)
 
 | Port Role | Function |
 | :--- | :--- |

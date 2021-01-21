@@ -1,14 +1,16 @@
 # IP \(Internet Protocol\)
 
-HTTP asks for the Web pages from a Web Server, TCP provides guaranteed delivery through Error recovery feature & TCP/IP Network Layer's \[\[202011201238 Network Layer\]\] IP provides Addressing for Host identification in the Network using IP Headers  \(encapsulated by Network Layer\) & like Zip codes used in the postal Service IP address groups are used in the Network.
+HTTP asks for the Web pages from a Web Server, TCP provides guaranteed delivery through Error recovery feature & TCP/IP [Network Layer's ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/network-layer)IP provides Addressing for Host identification in the Network using IP Headers  \(encapsulated by Network Layer\) & like Zip codes used in the postal Service IP address groups are used in the Network.
 
-* The main job of IP is Routing \[\[202011241735 IP Routing \(BIG FLOW\)\]\] of IP Packets from Source to the Destination.
-* * The Total size of an IP Header is 24 Bytes long containing 15 fields.
+* The main job of [IP is Routing](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/ip-routing-big-flow) of IP Packets from Source to Destination.
+* The Total size of an IP Header is 24 Bytes long containing 15 fields.
 
-  **There are 2 Versions of IP:**
+  \*\*\*\*
 
-* **IPv4 \[\[202011201505 IPv4\]\]**
-* **IPv6  \[\[202011201510 IPv6\]\]**
+**There are 2 versions of IP:**
+
+* \*\*\*\*[**IPv4** ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/ipv4)
+* \*\*\*\*[**IPv6** ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/ipv6)\*\*\*\*
 
 ## Reference:
 

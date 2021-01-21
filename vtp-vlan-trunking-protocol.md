@@ -1,6 +1,6 @@
 # VTP \(Vlan Trunking Protocol\)
 
-VTP is a Cisco proprietary tool on Cisco switches that advertises each VLAN \[\[202012050661 VLAN\]\] configured in one switch \(with the vlan number command\) so that all the other switches in the campus learn about that VLAN. 
+VTP is a Cisco proprietary tool on Cisco switches that advertises each [VLAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/vlan) \[\[202012050661 VLAN\]\] configured in one switch \(with the vlan number command\) so that all the other switches in the campus learn about that VLAN. 
 
 ### Why cisco removed VTP?
 

@@ -9,7 +9,7 @@
 ### What is a TRUNK Port?
 
 * Trunk port is a port which is the member of multiple VLANs.
-* Trunk port runs 802.1Q \[\[202012071143 Trunking Protocol \(802.1Q\)\]\] & does VLAN tagging in which they insert the 802.1Q VLAN Header to the Ethernet frame which includes the VLAN ID so that the receiving Switch can then know what VLAN \[\[202012050661 VLAN\]\] this frame belongs & it removes the 802.1Q VLAN header, refer the VLAN ID & forward the frame out to the interface belonging to that particular VLAN. 
+* Trunk port runs [802.1Q](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/trunking-protocol-802.1q) & does VLAN tagging in which they insert the 802.1Q VLAN Header to the Ethernet frame which includes the VLAN ID so that the receiving Switch can then know what [VLAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/vlan) this frame belongs & it removes the 802.1Q VLAN header, refer the VLAN ID & forward the frame out to the interface belonging to that particular VLAN. 
 
 ## Reference:
 

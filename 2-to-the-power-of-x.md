@@ -17,8 +17,6 @@ Binary means dual or double. Those 2 numbers are 1 or 0
 
    128+64+32+16+8+4+2+1 = 255. That means we have 1-255 IP Addresses in a single octet/byte.
 
-!\[\[Pasted image 20210101195601.png\]\]
-
 ## Reference:
 
 * **HOW 2 to the power of 0 = 1** [https://youtu.be/hTIAWT8m\_hk](https://youtu.be/hTIAWT8m_hk) 

@@ -20,9 +20,8 @@
 * E.g \(0-9\) is a single-digit \(Ones place value. But just by the addition of another digit \(tens place value\) also added the 10 more possibilities of each of those single-digit numbers…
 * Hence it was called Ten place value or \(to the power of 10 as there are 10 possibilities\)
 
-    !\[\[Pasted image 20210101190240.png\]\]
+  Notice here there are 10 possibilities of number 1 \(E.g. Numebr 1 can we associated with number 0-9 like 10, 11, 12, 13, 14, 15, 16, 17, 18, 19\). Similarly number 2,3,4,5,6,7,8,9 & 0 \(each number can be associated with each other  for 10 times.
 
-* Notice here there are 10 possibilities of number 1 \(E.g. Numebr 1 can we associated with number 0-9 like 10, 11, 12, 13, 14, 15, 16, 17, 18, 19\). Similarly number 2,3,4,5,6,7,8,9 & 0 \(each number can be associated with each other  for 10 times.
 * Hence it is called Base 10 & 10 to the power of 0-9.
 * **BECAUSE THERE ARE NUMBER OF POSSIBLITIES HENCE WE DO NOT ADD BUT MULTIPLY THE EXPONENT.**
 

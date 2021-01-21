@@ -18,11 +18,12 @@
 
 Practical Example:
 
-* \[\[202012010811a Subnetting BEST Method Example 1\]\]
-* \[\[202012010811b Subnetting BEST Method Example 2\]\]
-* \[\[202012010811c Subnetting BEST Method Example 3a\]\]
-* \[\[202012010811d Subnetting BEST Method Example 3b\]\]
-* \[\[202012010811e Subnetting BEST Method Example 3c\]\]
+* [Subnetting BEST Method Example 1](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-1)
+* [Subnetting BEST Method Example 2](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-2)
+* [Subnetting BEST Method Example 3a](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-3a)
+* [Subnetting BEST Method Example 3b](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-3b)
+* [Subnetting BEST Method Example 3c](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-3c)
+* [Subnetting BEST Method Example 4](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/subnetting-best-method-example-4)
 
 ## Reference:
 

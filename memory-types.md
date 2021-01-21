@@ -1,6 +1,6 @@
 # Memory Types
 
-Cisco OS \(IOS\) \[\[202012011007 Cisco OS \(IOS\)\]\] are stored in different Types of Memory installed in Cisco Switches \[\[202011231919 SWITCH\]\] & Routers \[\[202011251750 Router\]\].
+[Cisco OS \(IOS\)](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-os-ios) are stored in different Types of Memory installed in Cisco [Switches ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/switch)& [Routers](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/router).
 
 ### Four types of Cisco Switch/Router Memory:
 

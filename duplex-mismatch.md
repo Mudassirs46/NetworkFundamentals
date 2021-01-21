@@ -1,6 +1,6 @@
 # Duplex Mismatch:
 
-Duplex & Speed mismatch occurs when Autonegotiation \[\[202012101226 Autonegotiation\]\] fails because of Duplex&Speed mismatched settings.
+Duplex & Speed mismatch occurs when [Autonegotiation ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/autonegotiation)fails because of Duplex&Speed mismatched settings.
 
 * Because of IEEE Autonegotiation rule which says "IF AUTONEGOTIATION FAILS SET 10Mbps SETTING & FOR 10/100Mbps SET HALF DUPLEX SETTINGS "
 
@@ -15,10 +15,10 @@ Duplex & Speed mismatch occurs when Autonegotiation \[\[202012101226 Autonegotia
   2. Will follow the IEEE Autonegotiation default Duplex Settings:
      * "On 10/100 ports - set Half Duplex setting"
 * SW1 will put it's port to Half Duplex but SW2's port is manually in Full Duplex. This leads to **DUPLEX MISMATCH**
-* If on one side Half Duplex \[\[202012101215 Half Duplex\]\] is used & Full duplex \[\[202012101225 Full Duplex\]\] on the other Full Duplex port by default will keep sending & receiving frames at the same time whereas Half Duplex by default who uses CSMA/CD will wait until the line is clear before sending the frame & realize collision is occurring & will back off.
+* If on one side [Half Duplex](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/half-duplex) is used & [Full duplex](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/full-duplex) on the other Full Duplex port by default will keep sending & receiving frames at the same time whereas Half Duplex by default who uses CSMA/CD will wait until the line is clear before sending the frame & realize collision is occurring & will back off.
 * All these collisions & re-transmission are using up all the Bandwidth on the Half Duplex side. You may be able to PING but won't get full Bandwidth.
 
-  \[\[202012111240 Verifying Duplex Mismatch\]\]
+  \([Verifying Duplex Mismatch](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/verifying-duplex-mismatch)\)
 
 ## Reference:
 

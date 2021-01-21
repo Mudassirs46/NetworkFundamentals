@@ -1,6 +1,6 @@
 # Switched Virtual Interface
 
-You can configure IP Address on a PC & a Router but you cannot configure IP Address on a Switch as it is a L2 device. To configure IP Address on a Switch we use SVI \(Switched Virtual Interface\) \(Software Interface\) \(VLAN Interface\) which is configured on a VLAN \(Virtual Local Area Network\) \[\[202012050661 VLAN\]\]\]\] to get an access to the Switch. \[\[202012050660 Ethernet LAN Switching\]\]
+You can configure IP Address on a PC & a Router but you cannot configure IP Address on a Switch as it is a L2 device. To configure IP Address on a Switch we use SVI \(Switched Virtual Interface\) \(Software Interface\) \(VLAN Interface\) which is configured on a [VLAN ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/vlan)\(Virtual Local Area Network\) to get an access to the [Switch](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/ethernet-lan-switching). 
 
 * Initially all the ports are the member of VLAN 1 \(Default/Management VLAN\) used for Telnet/SSH purpose only.
 * You may configure multiple VLANs & each VLAN can be configured with separate IP Address.

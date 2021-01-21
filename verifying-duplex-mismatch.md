@@ -1,6 +1,6 @@
 # Verifying Duplex Mismatch
 
-#### To check the Duplex Mismatch \[\[202012110911 Duplex Mismatch\]\]:
+#### To check the [Duplex Mismatch](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/duplex-mismatch):
 
 1. Check the duplex setting on each end of the link to see if the values mismatch. 
 2. You can also watch for incrementing collision and late collision counters "\#sh interfaces \(_interface_\)"

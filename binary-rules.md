@@ -26,9 +26,9 @@
 
 Practical Example:
 
-* \[\[202012010809b Subnetting Binary Method Example 1\]\]
-* \[\[202012010809c Subnetting Binary Method Example 2\]\]
-* \[\[202012010809d Subnetting Binary Method Example 3\]\]
+* [Subnetting Binary Method Example 1](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/binary-method-example-1)
+* [Subnetting Binary Method Example 2](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/binary-method-example-2)
+* [Subnetting Binary Method Example 3](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/binary-method-example-3)
 
 ## Reference:
 

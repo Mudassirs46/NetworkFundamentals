@@ -1,6 +1,6 @@
 # Ether Channel
 
-If we paid hefty amount for each individual links between the 2 Switches & all of those links are in Discarding Mode & only 1 is used due to STP/RSTP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\] then we need a port bundling mechanism to group those ports as 1 single port.
+If we paid hefty amount for each individual links between the 2 Switches & all of those links are in Discarding Mode & only 1 is used due to [STP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol)/[RSTP ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/rstp-rapid-spanning-tree)then we need a port bundling mechanism to group those ports as 1 single port.
 
 * Ether Channel is the solution to bundle multiple ports/links as a single logical link.
 * Ether Channel is the logical aggregation of similar links.

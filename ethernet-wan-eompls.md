@@ -1,9 +1,9 @@
 # Ethernet WAN \(EoMPLS\)
 
-Multiple LANs are connected with the help of a WAN using a device called Router & One of the Type of WAN \[\[202011061106 WAN\]\] is Leased Line WAN.
+Multiple LANs are connected with the help of a WAN using a device called a Router & One of the types of [WAN](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/wan) is Leased Line WAN.
 
-* In Ethernet WAN instead of using Serial Link between the Two Routers SP uses Ethernet Link. 
-* Even if it is not using HDLC WAN Protocol still it will Re-encapsulate & De-encapsulate IP Packets at every HOP with new Header & Trailer. Because at every HOP in Ethernet Communication SMAC & DMAC will change. Hence it will also calculate FCS at each HOP. 
+* In Ethernet WAN instead of using Serial Link between the Two Routers, SP uses Ethernet Link. 
+* Even if it is not using HDLC WAN Protocol still it will Re-encapsulate & De-encapsulate IP Packets at every HOP with a new Header & Trailer. Because at every HOP in Ethernet Communication SMAC & DMAC will change. Hence it will also calculate FCS at each HOP. 
 * Ethernet WAN is also known as **Ethernet Line Service \(E-Line\), Ethernet emulation, Ethernet over MPLS \(EoMPLS\)**.
 
   **Ethernet Line Service \(E-Line\):**

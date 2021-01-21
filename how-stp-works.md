@@ -1,14 +1,14 @@
 # How STP works?
 
-Previously in \[\[202012071223 Why STP\]\] we understood STP's main job is to Block a port on the loop to break the Loop & to do that STP puts the port either in Forwarding mode or in the Blocking mode in \[\[202012071223a What STP Does\]\].
+[Previously ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/why-stp)we understood STP's [main job ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/what-stp-does)is to Block a port on the loop to break the Loop & to do that STP puts the port either in Forwarding mode or in the Blocking mode in.
 
 * Initially STP's STA \(Spanning Tree Algorithm\) creates a \(spanning\) Tree structure of ports that  are in the forwarding State to & from each Ethernet link just like the structure of a tree from the base to it's each leaf.
-* That means STP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\] only works on deciding which interface to put in the forwarding State & then simply put the rest in a Blocking State.
+* That means [STP](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol) only works on deciding which interface to put in the forwarding State & then simply put the rest in a Blocking State.
 * As all the L2 switches does the same L2 functions hence there must be some criteria just for the sake of formality or for the sake of election.
 * **3 Criteria to put an interface in a Forwarding Mode:**
-* **Elect a RB: \[\[202012071223d Electing a RB \(Root Bridge\)\]\]**
-* **Elect One Root Port on each Non RB: \[\[202012071223e Electing One Root Port \(Non RB\)\]\]**
-* **Elect One/Multiple Designated Ports on each Non RB: \[\[202012071223f Electing Designated Ports \(on each Non RB\]\]**
+* \*\*\*\*[**Elect a RB**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/electing-a-rb-root-bridge-switch)**:** 
+* \*\*\*\*[**Elect One Root Port on each Non RB**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/electing-one-root-port-on-each-non-rb)**:**
+* \*\*\*\*[**Elect One/Multiple Designated Ports on each Non RB**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/elect-one-multiple-designated-ports-on-each-non-rb)**:** 
 
   | Root Port | Designated Port |
   | :--- | :--- |

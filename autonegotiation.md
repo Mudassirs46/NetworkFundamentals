@@ -16,9 +16,9 @@ If we configure Full Duplex & 100 Mbps on SW1 but Full Duplex & 1000 Mbps on it'
 
   * **DUPLEX:**
 
-    10/100 - Half Duplex \[\[202012101215 Half Duplex\]\] 1000 - Full Duplex \(means Gig ports will always use Full Duplex\) \[\[202012101225 Full Duplex\]\]
+    10/100 - [Half Duplex](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/half-duplex) 1000 - Full Duplex \(means Gig ports will always use [Full Duplex](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/full-duplex)\)
 
-  * Autonegotiation failure leads to Duplex Mismatch \[\[202012110911 Duplex Mismatch\]\]
+  * Autonegotiation failure leads to [Duplex Mismatch](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/duplex-mismatch)
 
 ## Reference:
 

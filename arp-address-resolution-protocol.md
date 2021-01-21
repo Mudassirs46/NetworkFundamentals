@@ -1,6 +1,6 @@
 # ARP \(Address Resolution Protocol\)
 
-Some other Network Layer \[\[202011201238 Network Layer\]\]\]\] features which are related to IP Routing are DNS , ARP & PING.
+Some other [Network Layer](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/network-layer) features which are related to IP Routing are DNS , ARP & PING.
 
 * Address Resolution Protocol \(ARP\) is a network protocol used to find the MAC address from an IP address of a particular device within the LAN.
 * ARP request are broadcast Address sent within the LAN by a Router/Switch simply asking for the MAC Address of an IP Address. And in return an ARP reply is sent by the requested host simply mentioning it's own MAC Address.

@@ -1,9 +1,9 @@
 # Console Port:
 
-Cisco CLI \[\[202012031530 Cisco CLI\]\]  can be accessed in 3 ways: Console Port, Telnet Access, SSH Access.
+[Cisco CLI ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-cli)can be accessed in 3 ways: Console Port, Telnet Access, SSH Access.
 
 * The only Physical option to access the Console CLI of a Networking device via Physical Console port.
-* Console Access requires Physical connection between PC & Physical Console port of the Networking device as well as the software on the PC to transmit Data. \[\[202012031652 Console Cabling\]\]
+* Console Access requires Physical connection between PC & Physical [Console ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/console-cabling)port of the Networking device as well as the software on the PC to transmit Data.
 
 ## Reference:
 

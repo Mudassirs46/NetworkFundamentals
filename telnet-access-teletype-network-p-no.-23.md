@@ -1,6 +1,6 @@
 # Telnet Access \(Teletype network\) \(P No. 23\):
 
-Cisco CLI \[\[202012031530 Cisco CLI\]\]  can be accessed in 3 ways: Console Port, Telnet Access, SSH Access.
+[Cisco CLI](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-cli) can be accessed in 3 ways: Console Port, Telnet Access, SSH Access.
 
 * Teletype network \(Telnet\) Access requires software on the PC but also an active TCP/IP Connection between the PC & Networking Device to transmit the Data as Telnet uses IP Network. 
 * Telnet uses the concept of Telnet Client & Telnet Server. Telnet Client are the end devices \(mostly user PC\) & Telnet Server are the Edge devices \(Router/Switch\) where Telnet Client sends the command to the Telnet Server.

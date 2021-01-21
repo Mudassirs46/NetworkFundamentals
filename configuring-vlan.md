@@ -2,7 +2,7 @@
 
 ### VLAN can be configured in 2 ways:
 
-1. **Full VLAN \[\[202012050661 VLAN\]\] Configuration:**
+1. **Full** [**VLAN**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/vlan) **Configuration:**
    * Create a VLAN in VLAN Database \(\#vlan 10\)
    * Assigning VLAN to an interface \(\#int fa0/1\) \(\#switchport access vlan 10\) 
 2. **Shorter VLAN Configuration:**

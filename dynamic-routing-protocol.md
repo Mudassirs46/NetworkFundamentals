@@ -9,7 +9,7 @@
   * **Every Port of a Router must be in the different Subnet**
 
     \(Two IP addresses, separated from each other by at least one router, must be in different subnets\).
-* Router's \[\[202011251750 Router\]\] Routing Table should be populated with Routes. 
+* [Router's ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/router)Routing Table should be populated with Routes. 
 * **Routes can be populated in 3 ways:**
 * Directly connected Routes will automatically reflect in Router's Routing Table.
 * Administrator can make Static Rote Entry in Router's Routing Table 

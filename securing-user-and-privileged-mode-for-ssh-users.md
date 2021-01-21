@@ -1,8 +1,7 @@
 # Securing User & Privileged Mode For SSH Users
 
-User & Privileged CLI Modes are secured for: Console Users, Telnet Users & SSH Users.
+[User & Privileged CLI Modes are secured ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-mode-and-privileged-mode)for: Console Users, Telnet Users & SSH Users.
 
-* \[\[202012050654 Securing CLI Modes\]\]
 * As SSH is a secured alternative of Telnet hence it add the additional credential commands for added security & hence it cannot work with password only.
 
 ### To enable SSH on your Router/Switch

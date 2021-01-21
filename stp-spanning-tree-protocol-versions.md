@@ -1,6 +1,6 @@
 # STP \(Spanning Tree Protocol\) Versions
 
-Although CST is obsolete, now Cisco by default uses RSTP+ from amongst the different STP \[\[202012071223h STP \(Spanning Tree Protocol\)\]\] Versions.
+Although CST is obsolete, now Cisco by default uses RSTP+ from amongst the different [STP ](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/stp-spanning-tree-protocol)Versions.
 
 ## 3 STP Versions you can use today:
 

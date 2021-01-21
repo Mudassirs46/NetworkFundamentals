@@ -2,13 +2,14 @@
 
 ### The User Mode and Privileged Mode can be secured in the following ways:
 
-\[\[202012031530 Cisco CLI\]\] \[\[202012050653 CLI Modes\]\] 1. Using Simple Passwords only, 2. Using Username & Password, 3. Using External Authentication Servers
+\([Cisco CLI](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cisco-cli)\) \([CLI Modes](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/cli-modes)\)  
+1. Using Simple Passwords only, 2. Using Username & Password, 3. Using External Authentication Servers
 
 ### User & Privileged Modes are secured for:
 
-* **Console Users    \[\[202012050655 Securing CLI Modes For Console Users\]\]**
-* **Telnet Users            \[\[202012050656 Securing CLI Modes For Telnet Users\]\]**
-* **SSH Users            \[\[202012050657 Securing CLI Modes For SSH Users\]\]**
+* \*\*\*\*[**Console Users**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-and-privileged-mode-for-console-users)
+* \*\*\*\*[**Telnet Users**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-and-privileged-mode-for-telnet-users)\*\*\*\*
+* \*\*\*\*[**SSH Users**](https://app.gitbook.com/@mudassirs46/s/network-fundamentals/~/drafts/-MRZ8l67L5MHnaQIEh9W/securing-user-and-privileged-mode-for-ssh-users)
 
 ## Reference:
 
